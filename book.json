@@ -1,6 +1,6 @@
 {
-  "title": "Flutter for Harmony教程",
-  "description": "Flutter for Harmony电子书教程",
+  "title": "元服务开发实践",
+  "description": "元服务开发实践电子书教程",
   "author": "坚果派",
   "language": "zh-hans",
   "root": ".",
@@ -35,7 +35,7 @@
   },
   "pluginsConfig": {
     "github-buttons": {
-      "repo": "ITmxs/gitbook",
+      "repo": "nutpi/gitbook",
       "types": [
         "star",
         "watch",
@@ -122,7 +122,7 @@
         {
           "target": "_blank",
           "url": "https://space.bilibili.com/480883651",
-          "name": "元服务开发实践"
+          "name": "HarmonyOS NEXT应用开发"
         },
         {
           "target": "_blank",
@@ -136,14 +136,14 @@
           "wxpay": "https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202901895.png",
           "alipay": "https://luckly007.oss-cn-beijing.aliyuncs.com/img/image-20210922202843746.png",
           "title": "『赠人玫瑰 🌹 手有余香 』",
-          "avatar": "http://xkapp-uat.oss-cn-hangzhou.aliyuncs.com/2e7a3f70-80ab-4b50-93ec-a04dfeef949b/avatar-100.png",
-          "nickname": "breeze",
+          "avatar": "https://luckly007.oss-cn-beijing.aliyuncs.com/uPic/avatar.jpg",
+          "nickname": "坚果",
           "button": "打赏",
           "alipayText": "支付宝",
           "wechatText": "微信",
           "message": "随意打赏，但不要超过一顿早餐钱 💕"
         },
-        "copyright": true
+        "copyright": false
       }
     }
   }

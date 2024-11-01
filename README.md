@@ -1,14 +1,14 @@
 ## 前言
 
-关注到目前很多人都很是关注Flutter For Harmony 于是集合坚果派的力量，利用业余时间写了这本入门的《Flutter For Harmony 于》电子书并把它挂到网站上，希望能给读者带来一点帮助，也算为 OpenHarmony 和HarmonyOS以及整个大的鸿蒙生态的发展做一点贡献。
+关注到目前很多人都很是关注元服务如何开发，于是集合坚果派的力量，利用业余时间写了这本入门的《元服务开发实践》电子书并把它挂到网站上，希望能给读者带来一点帮助，也算为元服务以及整个大的鸿蒙生态的发展做一点贡献。
 
 
 
 ### 本书组织结构
 
-本书以循序渐进的方式从Flutter与 OpenHarmony /HarmonyOS介绍入手，到最后的落地实践，分为五篇，共计 16 章，各篇的主要内容如下：
+本书以循序渐进的方式从元服务介绍入手，到最后的落地实践，分为五篇，共计 16 章，各篇的主要内容如下：
 
-- 第一篇，入门篇（第1章~第5章），包括 Flutter 与OpenHarmony 的发展历程，ArkTS/Dart语法简介，Flutter/ArkUI开发框架的常见基础组件的使用以及页面的布局，通过本章节的学习，读者可以开发简单的页面。
+- 第一篇，入门篇（第1章~第5章），包括 元服务的介绍
 - 第二篇，进阶篇（第6章~第12章），
 - 第三篇，高阶篇（第13章~第16章），包括 OpenHarmony 实现万物互联的核心分布式软总线介绍，它的应用场景：原子化服务和服务卡片，分布式数据库，分布式相机以及分布式屏幕等。该章节还在创作中。
 - 第四篇，实战篇（第17章~第18章），通过极简计算器项目给读者串联一下以上各章节的知识点，让读者更深层次的理解 OpenHarmony 应用的开发流程以及项目实战中常用的开发技巧。
@@ -32,6 +32,5 @@
 
 ### 致谢
 
-笔者写这本电子书的时候主要参考 OpenHarmony /Flutter官方文档以及 SDK 源码，期间发现问题后并及时在  OpenHarmony 相关仓库做了反馈，感谢 OpenHarmony 的专家们给做了耐心解答。另外非常感谢在 [https://gitee.com/ark-ui/arkui_in_action](https://gitee.com/ark-ui/arkui_in_action) 上和 QQ （[695438501](https://qm.qq.com/cgi-bin/qm/qr?k=YBDKMU9Lt309QL_I1Lfa2jVpGwx65VSR&jump_from=webapi)）群里给我反馈问题的小伙伴，最后感谢所有为 OpenHarmony 生态建设做出贡献的人，你们是最棒的！
-
+笔者写这本电子书的时候主要参考元服务官方文档，期间发现问题后并及时做了反馈，感谢鸿蒙专家们给做了耐心解答。另外非常感谢在 [https://gitcode.com/nutpi/Flutter_Harmony](https://gitcode.com/nutpi/Flutter_Harmony ) 上和 QQ （[695438501](https://qm.qq.com/cgi-bin/qm/qr?k=YBDKMU9Lt309QL_I1Lfa2jVpGwx65VSR&jump_from=webapi)）群里给我反馈问题的小伙伴，最后感谢所有为 鸿蒙生态建设做出贡献的人，你们是最棒的！
 
