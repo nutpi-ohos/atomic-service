@@ -65,32 +65,21 @@
       "expandable-chapters": {}
     },
     "sharing": {
-      "douban": false,
-      "facebook": false,
-      "google": false,
-      "pocket": false,
       "qq": false,
       "qzone": false,
-      "twitter": false,
       "weibo": false,
+      "wechat": false,
       "all": [
         "qq",
         "qzone",
-        "whatsapp",
-        "douban",
-        "facebook",
-        "google",
-        "instapaper",
-        "linkedin",
-        "messenger",
-        "twitter",
-        "weibo"
+        "weibo",
+        "wechat"
       ]
     },
     "theme-lou": {
       "color": "#FF4848",
       "favicon": "assets/avatar.png",
-      "logo": "assets/avatar.png",
+      "logo": "assets/logo.png",
       "appleTouchIconPrecomposed152": "assets/avatar.png",
       "copyrightLogo": "assets/copyright.png",
       "forbidCopy": true,
