@@ -13,7 +13,7 @@
   - [4.4测试](chapter4/4.4测试.md)
   - [4.5上架](chapter4/上架.md)
 * 5.开发第一个元服务
-  - [5.1创建元服务工程](chapter5/5.1使用真机运行元服务.md)
+  - [5.1创建元服务工程](chapter5/5.1创建元服务工程.md)
   - [5.2生成元服务图标](chapter5/5.2生成元服务图标.md)
   - [5.3构建元服务页面](chapter5/5.3构建元服务页面.md)
   - [5.4新建元服务卡片](chapter5/5.4新建元服务卡片.md)
@@ -27,11 +27,11 @@
   - [6.6经营履约能力开发](chapter6/6.6经营履约能力开发.md)
 * 7.服务卡片开发
   - 7.1Form Kit简介
-  - [7.2ArkTS卡片运行机制https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-working-principles-V5]()
+  - [7.2ArkTS卡片运行机制]()
   - [7.3ArkTS卡片相关模块](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-modules-V5)
   - [7.4创建一个ArkTS卡片](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-creation-V5)
   - [7.5配置卡片的配置文件](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-configuration-V5)
-  - [7.6卡片生命周期管理](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-lifecycle-V5)
+  - [7.6卡片生命周期管7.6卡片生命周期管理理](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-lifecycle-V5)
   - [7.7开发卡片页面](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-page-V5)
   - [7.8开发卡片事件](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-event-V5)
   - [7.9卡片数据交互](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-interaction-V5)
