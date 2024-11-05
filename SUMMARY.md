@@ -26,7 +26,7 @@
   - [6.5基础能力开发](chapter6/6.5基础能力开发.md)
   - [6.6经营履约能力开发](chapter6/6.6经营履约能力开发.md)
 * 7.服务卡片开发
-  - 7.1Form Kit简介
+  - [7.1Form Kit简介](./chapter7/7.1Form Kit简介.md)
   - [7.2ArkTS卡片运行机制]()
   - [7.3ArkTS卡片相关模块](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-modules-V5)
   - [7.4创建一个ArkTS卡片](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-creation-V5)
@@ -36,10 +36,11 @@
   - [7.8开发卡片事件](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-event-V5)
   - [7.9卡片数据交互](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-interaction-V5)
 * 8.金额转大写实战
+   - [8.1](./chapter8/8.1金额转大写.md)
 * 9.运行调试元服务
-   - 9.1调试元服务
+   - [9.1调试元服务](./chapter9/9.1调试元服务)
 * 10.发布元服务
-   - 10.1元服务审核指南
+   - [10.1元服务审核指南](./chapter10/10.1元服务审核指南)
    - 10.2发布前自检
    - 10.3 打包发布版本
    - 10.4邀请测试
@@ -76,7 +77,7 @@
    - [ArkTS语言基础类库](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-arkts-utils-V5)
    - [自动化测试](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-arkxtest-guidelines-V5)
 * 13.经营履约能力开发
-   - [账号](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-account-development-V5)
+   - [13.1账号](./chapter13/13.1Account Kit.md)
    - [推送](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-push-development-V5)
    - [扫码](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-code-scan-development-V5)
    - [位置](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-location-development-V5)
