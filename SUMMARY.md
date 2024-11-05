@@ -37,7 +37,7 @@
   - [7.9卡片数据交互](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-interaction-V5)
 * 8.金额转大写实战
 * 9.运行调试元服务
-   - 8.1调试元服务
+   - 9.1调试元服务
 * 10.发布元服务
    - 10.1元服务审核指南
    - 10.2发布前自检
@@ -46,13 +46,13 @@
    - 10.5元服务备案
    - 10.6发布元服务
 * 11.FAQ
-  - [元服务是什么？和App什么关系？](https://developer.huawei.com/consumer/cn/doc/atomic-faqs-V5/faqs-operational-1-V5)
-  - [元服务与App、卡片、小程序有什么区别？](https://developer.huawei.com/consumer/cn/doc/atomic-faqs-V5/faqs-operational-2-V5)
-  - [开发App和开发元服务如何选择？](https://developer.huawei.com/consumer/cn/doc/atomic-faqs-V5/faqs-operational-3-V5)
-  - [开发了App，再开发元服务有什么价值？](https://developer.huawei.com/consumer/cn/doc/atomic-faqs-V5/faqs-operational-4-V5)
-  - [对接华为支付的关键信息](https://developer.huawei.com/consumer/cn/doc/atomic-faqs-V5/faqs-operational-5-V5)
+  - [11.1元服务是什么？和App什么关系？](./chapter11/11.1元服务是什么？.md)
+  - [11.2元服务与App、卡片、小程序有什么区别？](./chapter11/11.2元服务与App、卡片、小程序有什么区别.md)
+  - [11.3开发App和开发元服务如何选择？](./chapter11/11.3开发App和开发元服务如何选择？.md)
+  - [11.4开发了App，再开发元服务有什么价值？](./chapter11/11.4开发了App，再开发元服务有什么价值.md)
+  - [11.5对接华为支付的关键信息](./chapter11/11.5对接华为支付的关键信息.md)
 * 12.基础能力开发
-   - [网络](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-network-development-V5)
+   - [12.1网络](.\chapter12\12.1网络.md)
    - [数据](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-database-V5)
    - [文件](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-file-development-V5)
    - [音视频](https://developer.huawei.com/consumer/cn/doc/atomic-guides-V5/atomic-audio-development-V5)

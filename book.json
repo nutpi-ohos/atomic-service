@@ -35,7 +35,7 @@
   },
   "pluginsConfig": {
     "github-buttons": {
-      "repo": "nutpi/gitbook",
+      "repo": "jianguo888/docsify",
       "types": [
         "star",
         "watch",
@@ -44,7 +44,7 @@
       "size": "small"
     },
     "edit-link": {
-      "base": "https://github.com/ITmxs/gitbook/edit/master/",
+      "base": "https://atomgit.com/nutpi/atomic-service",
       "label": "编辑此页"
     },
     "readmore": {
