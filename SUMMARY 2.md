@@ -71,5 +71,5 @@
 
 > 坚果、红目香薰
 
-![image-2024110512121111](logo/logo.png)
-![image-2024110512121111](logo/random_2_1024x1024.png)
+![image-2024110512121111](https://atomgit.com/nutpi/hongmuxiangxun_nut_yuanfuwu/raw/master/logo%2Flogo.png)
+![image-2024110512121111](https://atomgit.com/nutpi/hongmuxiangxun_nut_yuanfuwu/raw/master/logo%2Frandom_2_1024x1024.png)
