@@ -35,8 +35,8 @@
   - [7.7开发卡片页面](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-page-V5)
   - [7.8开发卡片事件](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-event-V5)
   - [7.9卡片数据交互](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/arkts-ui-widget-interaction-V5)
-* 8.金额转大写实战
-   - [8.1](./chapter8/8.1金额转大写.md)
+* 8.每日简讯实战
+   - [8.1每日简讯项目介绍](./chapter8/8.1每日简讯项目介绍.md)
 * 9.运行调试元服务
    - [9.1调试元服务](./chapter9/9.1调试元服务)
 * 10.发布元服务
