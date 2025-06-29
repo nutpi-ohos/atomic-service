@@ -37,21 +37,54 @@
 
 
 
-### 本书读者对象
+## 👥 适合读者
 
-- 读者至少熟悉一种编程语言，最好是 JavaScript/或者Dart 。
-- 读者最好接触过移动端、Web 前端或者 PC 端开发。
-- 本书只是简介类书籍，不适合编程的入门读物。
+### 📋 基础要求
+- 具备至少一种编程语言基础（推荐：JavaScript、TypeScript、ArkTS）
+- 有移动端、Web前端或桌面应用开发经验者优先
+- 对鸿蒙生态和元服务概念有基本了解
 
+### 🎯 学习目标
+- 掌握元服务开发的完整流程
+- 学会使用ArkTS进行元服务开发
+- 了解服务卡片的设计和实现
+- 具备独立开发和发布元服务的能力
 
+> **注意**：本书为进阶类技术书籍，不适合编程零基础读者。建议先掌握基础编程知识后再阅读本书。
 
-### 勘误
+## ⚠️ 版本说明
 
-笔者写这本电子书使用的 SDK 是 NEXT 版本（API 12，5.0.0.71），由于ArkUI开发框架在不断更新中，本书的部分内容可能会和新版本的不一致，读者以最新的版本为准，另外由于时间仓促，本书难免有错误之处，如果读者发现错误欢迎在 [https://gitee.com/ark-ui/arkui_in_action](https://gitee.com/ark-ui/arkui_in_action) 上提  **Issue**，也可以加 QQ 群（[695438501](https://qm.qq.com/cgi-bin/qm/qr?k=YBDKMU9Lt309QL_I1Lfa2jVpGwx65VSR&jump_from=webapi)）反馈问题或者交流技术。
+### 📱 开发环境
+- **SDK版本**：HarmonyOS NEXT（API 12，5.0.0.71+）
+- **开发工具**：DevEco Studio NEXT
+- **编程语言**：ArkTS
 
+### 🔄 更新说明
+由于鸿蒙生态和ArkUI框架持续快速迭代，本书内容可能与最新版本存在差异。建议读者：
+- 以官方最新文档为准
+- 关注版本更新日志
+- 及时更新开发工具和SDK
 
+### 🐛 问题反馈
+如果您在阅读过程中发现任何问题，欢迎通过以下方式反馈：
+- **GitHub Issues**：[提交问题](https://gitee.com/ark-ui/arkui_in_action)
+- **技术交流群**：QQ群 [695438501](https://qm.qq.com/cgi-bin/qm/qr?k=YBDKMU9Lt309QL_I1Lfa2jVpGwx65VSR&jump_from=webapi)
 
-### 致谢
+## 🙏 致谢
 
-笔者写这本电子书的时候主要参考元服务官方文档，期间发现问题后并及时做了反馈，感谢鸿蒙专家们给做了耐心解答。另外非常感谢在 [https://gitcode.com/nutpi/Flutter_Harmony](https://gitcode.com/nutpi/Flutter_Harmony ) 上和 QQ （[695438501](https://qm.qq.com/cgi-bin/qm/qr?k=YBDKMU9Lt309QL_I1Lfa2jVpGwx65VSR&jump_from=webapi)）群里给我反馈问题的小伙伴，最后感谢所有为 鸿蒙生态建设做出贡献的人，你们是最棒的！
+### 📚 参考资料
+本书编写过程中主要参考了华为官方元服务开发文档，感谢华为开发者团队提供的详细技术资料和持续的技术支持。
+
+### 👨‍💻 社区贡献
+特别感谢以下平台和社区的支持：
+- [Flutter_Harmony项目](https://gitcode.com/nutpi/Flutter_Harmony)的贡献者们
+- QQ技术交流群（[695438501](https://qm.qq.com/cgi-bin/qm/qr?k=YBDKMU9Lt309QL_I1Lfa2jVpGwx65VSR&jump_from=webapi)）的活跃成员
+- 所有为鸿蒙生态建设贡献力量的开发者们
+
+### 🌟 坚果派团队
+感谢坚果派团队所有成员的辛勤付出，正是大家的共同努力才有了这本电子书的诞生。
+
+---
+
+**让我们一起为鸿蒙生态的繁荣发展贡献力量！** 🚀
 
