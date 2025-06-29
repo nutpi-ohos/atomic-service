@@ -127,4 +127,23 @@ else
     exit 1
 fi
 
+# 推送到远程仓库
+print_info "推送到远程仓库..."
+if git push origin github; then
+    print_success "推送成功！"
+    print_info "部署完成，更改已同步到远程仓库"
+else
+    print_error "推送失败，请检查网络连接和权限"
+    exit 1
+fi
+
+# 推送到远程仓库
+print_info "推送到远程仓库..."
+if git push origin gitee; then
+    print_success "推送成功！"
+    print_info "部署完成，更改已同步到远程仓库"
+else
+    print_error "推送失败，请检查网络连接和权限"
+    exit 1
+fi
 
